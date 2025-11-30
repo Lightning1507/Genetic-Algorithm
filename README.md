@@ -40,7 +40,6 @@ Dự án so sánh 4 phương pháp tiếp cận:
 1.  Clone repository này về máy:
     ```bash
     git clone [https://github.com/Lightning1507/Genetic-Algorithm.git](https://github.com/Lightning1507/Genetic-Algorithm.git)
-    cd tsp-genetic-algorithm
     ```
 
 2.  Cài đặt các thư viện cần thiết:
