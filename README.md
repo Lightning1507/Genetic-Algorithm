@@ -52,7 +52,7 @@ Dự án so sánh 4 phương pháp tiếp cận:
     jupyter notebook
     ```
 
-4.  Mở file `TSP_Genetic_Algorithm.ipynb` và chạy chọn **Run All** để xem quá trình huấn luyện và biểu đồ so sánh.
+4.  Mở file `GA_Varations.ipynb` và chạy chọn **Run All** để xem quá trình huấn luyện và biểu đồ so sánh.
 
 ## 📈 Phân tích kết quả
 
@@ -65,7 +65,7 @@ Dựa trên thực nghiệm với `100` thành phố và `2000` thế hệ:
 ## 📂 Cấu trúc dự án
 
 ```text
-├── TSP_Genetic_Algorithm.ipynb  # Main notebook chứa toàn bộ code và visualization
+├── GA_Varations.ipynb  # Main notebook chứa toàn bộ code và visualization
 ├── results.png                  # Ảnh chụp kết quả chạy thực tế
 └── README.md                    # Tài liệu hướng dẫn
 ```
