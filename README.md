@@ -39,7 +39,7 @@ Dự án so sánh 4 phương pháp tiếp cận:
 
 1.  Clone repository này về máy:
     ```bash
-    git clone [https://github.com/username-cua-ban/tsp-genetic-algorithm.git](https://github.com/username-cua-ban/tsp-genetic-algorithm.git)
+    git clone [https://github.com/Lightning1507/Genetic-Algorithm.git](https://github.com/Lightning1507/Genetic-Algorithm.git)
     cd tsp-genetic-algorithm
     ```
 
